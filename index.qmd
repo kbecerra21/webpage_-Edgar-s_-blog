@@ -2,7 +2,7 @@
 title: "Edgar the Chicken's Blog"
 ---
 
-This is a Quarto website.
+This is a Quarto website.git
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

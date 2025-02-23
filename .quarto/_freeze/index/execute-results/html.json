@@ -1,8 +1,8 @@
 {
-  "hash": "ecba4638114c3651c71a9ce32acb060e",
+  "hash": "179984d3fb51514bc3522a4483efbf68",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Edgar the Chicken's Blog\"\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Edgar the Chicken's Blog\"\n---\n\n\n\nThis is a Quarto website.git\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
